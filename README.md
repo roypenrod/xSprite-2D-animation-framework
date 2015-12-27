@@ -9,6 +9,8 @@ The source code worked the last time I checked, but Microsoft's XNA is dead.  If
 
 I'm posting this as a portfolio sample for potential employers.
 
+If you want to reach me, you can find my contact info in my Github profile or visit my website at: www.roypenrod.com
+
 -- Roy
 
 

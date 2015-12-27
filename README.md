@@ -9,6 +9,8 @@ The source code worked the last time I checked, but Microsoft's XNA is dead.  If
 
 I'm posting this as a portfolio sample for potential employers.
 
+Start with Documentation.cs.  It gives you a rundown of the structure of xSprite and explains how to use it.
+
 If you want to reach me, you can find my contact info in my Github profile or visit my website at: www.roypenrod.com
 
 -- Roy
